@@ -1,0 +1,3 @@
+D:\VISUAL\Lab1_Oscar_Xiquin_1118423\Lab1_Oscar_Xiquin_1118423\x64\Debug\Lab1_Oscar_Xiquin_1118423.vcxproj.AssemblyReference.cache
+D:\VISUAL\Lab1_Oscar_Xiquin_1118423\Lab1_Oscar_Xiquin_1118423\x64\Debug\Lab1OscarXiquin1118423.MyForm.resources
+D:\VISUAL\Lab1_Oscar_Xiquin_1118423\Lab1_Oscar_Xiquin_1118423\x64\Debug\Lab1_Oscar_Xiquin_1118423.vcxproj.GenerateResource.cache
